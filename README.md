@@ -74,3 +74,5 @@
 * UML-диаграммы готовы
 * Готов к демонстрации и защите
 
+*ссылка на фигму:https://www.figma.com/design/uXLp8HCg7jb5JOhwk0k5og/Untitled?node-id=0-1&p=f&t=A2wZMNWmsRnCjnU2-0
+
